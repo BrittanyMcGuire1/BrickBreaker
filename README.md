@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Picture4.png" alt="Brick Breaker Game" />
+</p>
 # Brick Breaker Game
 A simple Java-based implementation of the **Brick Breaker** game. Bounce the ball off the paddle and try to break all the bricks!
 
